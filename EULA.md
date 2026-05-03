@@ -2,7 +2,7 @@
 
 **Last updated: May 2026**
 
-This End User License Agreement ("Agreement") is a legal agreement between you ("User") and Steve Timmermans ("Developer") for the use of the Cardo mobile application ("App").
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and RIOD.nmfp ("Developer") for the use of the Cardo mobile application ("App").
 
 By installing or using Cardo, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the App.
 
@@ -61,7 +61,7 @@ The Developer reserves the right to modify this Agreement at any time. Any chang
 ## 12. Contact
 If you have any questions about this Agreement, please contact:
 
-Email: to.be@created.com
+Email: riod.nmfp@outlook.com
 
 ---
 
