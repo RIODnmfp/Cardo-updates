@@ -3,7 +3,7 @@
 **Last updated: May 2026**
 
 ## Overview
-Cardo ("the App") is a loyalty card wallet application developed by RIODnmfp ("the Developer"). This privacy policy explains how the App handles your data.
+Cardo ("the App") is a loyalty card wallet application developed by RIOD.nmfp ("the Developer"). This privacy policy explains how the App handles your data.
 
 ## Data Collection
 **Cardo does not collect, store, or transmit any personal data to external servers.**
@@ -47,4 +47,4 @@ This privacy policy may be updated from time to time. Any changes will be posted
 ## Contact
 If you have any questions about this privacy policy, please contact:
 
-Email: to.be@created.com
+Email: riod.nmfp@outlook.com
