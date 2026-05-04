@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.0.1",
-    "minimum_version": "1.0.0",
+    "latest_version": "1.0.2",
+    "minimum_version": "1.0.2",
     "update_type": "optional",
-    "release_notes": "Bug fixes and improvements",
+    "release_notes": "Added a how-to and 'import from Fidme/Klarna option'",
     "app_store_url": "https://apps.apple.com/app/cardo/idXXXXXXXXXX"
 }
